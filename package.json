@@ -17,7 +17,13 @@
     "url": "https://github.com/rahulp0/bodhilabs/issues"
   },
   "homepage": "https://github.com/rahulp0/bodhilabs#readme",
-  "dependencies": {},
+  "dependencies": {
+    "eslint": "^5.11.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.4",
